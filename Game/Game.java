@@ -1,6 +1,6 @@
 package Game;
 
-public class Game extends RPG {
+public class Game{
 	public static void main(String[] args) {
 		
 		Warrior wa = new Warrior("Soron",1000,500,100,0);
